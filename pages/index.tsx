@@ -18,7 +18,12 @@ const Home: NextPage = () => {
           <li>Hi, I’m @prodipto2001</li>
           <li>👀 I’m interested in UI/UX Designing and IoT.🌱</li>
           <li>I’m currently learning UX Design</li>
-          <li>📫 Reach me on prodiptoofficial2001@gmail.com</li>
+          <li>
+            📫 Reach me on{" "}
+            <a href="mailto:prodiptoofficial2001@gmail.com">
+              prodiptoofficial2001@gmail.com
+            </a>
+          </li>
         </ul>
       </main>
     </div>
